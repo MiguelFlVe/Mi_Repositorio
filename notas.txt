@@ -4,3 +4,5 @@ Segunda nota en el archivo
 Primera nota del ejercicio práctico
 
 Nota en la rama Nueva_Funcionalidad
+
+Simulación problema merge (En Nueva_Funcionalidad)
